@@ -1,1 +1,7 @@
 
+[
+  {"id":"1","lang":"en","q":"How do I reset my password?","a":"Go to Settings → Account → Reset password."},
+  {"id":"2","lang":"hi","q":"पासवर्ड कैसे रीसेट करें?","a":"सेटिंग में जाएँ → अकाउंट → पासवर्ड रीसेट करें।"},
+  {"id":"3","lang":"es","q":"¿Cómo restablezco mi contraseña?","a":"Vaya a Configuración → Cuenta → Restablecer contraseña."}
+  // expand to 15-25 entries
+]
